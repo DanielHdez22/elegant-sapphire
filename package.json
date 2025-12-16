@@ -1,0 +1,40 @@
+{
+  "name": "elegant-sapphire",
+  "displayName": "Elehant Sapphire Theme",
+  "description": "A dark theme reimagined for Visual Studio Code, merging the elegance of deep sapphire with cool tones and soft contrast. Designed to provide a comfortable and visually pleasing coding experience.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Daniel Hernández",
+    "email": "daniel.hdez22@hotmail.com"
+  },
+  "license": "MIT",
+  "icon": "icons/logo.png",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+		"theme",
+		"dark",
+		"elegant",
+		"warm",
+		"sapphire",
+    "blue"
+	],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Elegant Sapphire Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/elegant-sapphire.json"
+      }
+    ]
+  },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/DanielHdez22/elegant-sapphire.git"
+	},
+  "publisher": "DanielHdez22"
+}
