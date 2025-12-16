@@ -1,7 +1,7 @@
 # 🎨 Elegant Sapphire Theme
 
 <p align="center">
-    <img width="1024" alt="Elegant Sapphire Banner" src="https://github.com/user-attachments/assets/258cbf31-d6c2-48a0-860a-1e40c4c36606" />
+    <img width="1024" height="415" alt="banner" src="https://github.com/user-attachments/assets/47ab1ef7-2a0c-4d6e-9ba4-c7327b25756c" />
 </p>
 
 A dark theme reimagined for Visual Studio Code, merging the elegance of deep sapphire gems with cool tones and professional contrast. Designed to provide a comfortable and visually stunning coding experience.
@@ -39,7 +39,7 @@ A dark theme reimagined for Visual Studio Code, merging the elegance of deep sap
 * **Extension Name:** `elegant-sapphire`
 * **Author:** Daniel Hdez
 * **Publisher:** DanielHdez22
-* **Version:** 1.0.2
+* **Version:** 0.0.1
 * **License:** MIT
 
 ## 📝 Contribution and Support
