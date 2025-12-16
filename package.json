@@ -1,8 +1,8 @@
 {
   "name": "elegant-sapphire",
-  "displayName": "Elehant Sapphire Theme",
+  "displayName": "Elegant Sapphire Theme",
   "description": "A dark theme reimagined for Visual Studio Code, merging the elegance of deep sapphire with cool tones and soft contrast. Designed to provide a comfortable and visually pleasing coding experience.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Daniel Hernández",
     "email": "daniel.hdez22@hotmail.com"
