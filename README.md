@@ -39,7 +39,7 @@ A dark theme reimagined for Visual Studio Code, merging the elegance of deep sap
 * **Extension Name:** `elegant-sapphire`
 * **Author:** Daniel Hdez
 * **Publisher:** DanielHdez22
-* **Version:** 0.0.4
+* **Version:** 1.0.0
 * **License:** MIT
 
 ## 📝 Contribution and Support

@@ -189,12 +189,12 @@
     {
       "name": "Keyword",
       "scope": "keyword",
-      "settings": { "foreground": "#636BE0", "fontStyle": "bold" }
+      "settings": { "foreground": "#9A98FF", "fontStyle": "bold" }
     },
     {
       "name": "Operator Keyword",
       "scope": "keyword.operator",
-      "settings": { "foreground": "#FFD57A" }
+      "settings": { "foreground": "#5590FF" }
     },
     {
       "name": "New/Expression/Logical/Delete Operator Keywords",
@@ -204,7 +204,7 @@
         "keyword.operator.logical",
         "keyword.operator.delete"
       ],
-      "settings": { "foreground": "#636BE0" }
+      "settings": { "foreground": "#9A98FF" }
     },
     {
       "name": "Unit Other Keyword",
@@ -214,12 +214,12 @@
     {
       "name": "Storage",
       "scope": "storage",
-      "settings": { "foreground": "#636BE0", "fontStyle": "bold" }
+      "settings": { "foreground": "#9A98FF", "fontStyle": "bold" }
     },
     {
       "name": "Constant",
       "scope": "constant",
-      "settings": { "foreground": "#2D99FFF6" }
+      "settings": { "foreground": "#69FFF3F6" }
     },
     {
       "name": "Escape Character Constant",
@@ -229,12 +229,12 @@
     {
       "name": "Variable",
       "scope": "variable",
-      "settings": { "foreground": "#016FFF" }
+      "settings": { "foreground": "#0077FF" }
     },
     {
       "name": "Language Variable",
       "scope": "variable.language",
-      "settings": { "foreground": "#016FFF", "fontStyle": "italic" }
+      "settings": { "foreground": "#0077FF", "fontStyle": "italic" }
     },
     {
       "name": "Variable Name Entity",
@@ -249,7 +249,7 @@
     {
       "name": "Constant Other Variable",
       "scope": "variable.other.constant",
-      "settings": { "foreground": "#2D99FFF6" }
+      "settings": { "foreground": "#299FFFF6" }
     },
     {
       "name": "Property Other Variable",
@@ -279,12 +279,12 @@
     {
       "name": "Quoted/Template String",
       "scope": ["string.quoted", "string.template"],
-      "settings": { "foreground": "#A6CAFF" }
+      "settings": { "foreground": "#A6C9FF" }
     },
     {
       "name": "Regexp String",
       "scope": "string.regexp",
-      "settings": { "foreground": "#A6CAFFF4" }
+      "settings": { "foreground": "#A6C9FFF4" }
     },
     {
       "name": "Link Other String",
@@ -314,7 +314,7 @@
     {
       "name": "Tag Name Entity",
       "scope": "entity.name.tag",
-      "settings": { "foreground": "#636BE0", "fontStyle": "bold" }
+      "settings": { "foreground": "#9A98FF", "fontStyle": "bold" }
     },
     {
       "name": "Type Name Entity & CSharp Storage Type",
@@ -329,7 +329,7 @@
     {
       "name": "Other Attribute Name Entity",
       "scope": "entity.other.attribute-name",
-      "settings": { "foreground": "#016FFF", "fontStyle": "bold" }
+      "settings": { "foreground": "#0077FF", "fontStyle": "bold" }
     },
     {
       "name": "ID Attribute Name Entity",
@@ -364,7 +364,7 @@
     {
       "name": "Variable Support",
       "scope": "support.variable",
-      "settings": { "foreground": "#636BE0" }
+      "settings": { "foreground": "#9A98FF" }
     },
     {
       "name": "Property Name Type Support & Object Literal Key Meta",
@@ -377,10 +377,14 @@
       "settings": { "foreground": "#C5C8CA" }
     },
     {
+      "name": "Punctuation Definition",
+      "scope": "punctuation.definition",
+      "settings": { "foreground": "#0077FF" }
+    },
+    {
       "name": "Punctuation/Brace Meta",
       "scope": [
         "punctuation",
-        "punctuation.definition",
         "punctuation.definition.string",
         "punctuation.definition.parameters",
         "punctuation.terminator.statement",
@@ -392,27 +396,22 @@
         "meta.brace.square",
         "meta.brace.curly"
       ],
-      "settings": { "foreground": "#016FFF" }
-    },
-    {
-      "name": "Separator Punctuation",
-      "scope": "punctuation.separator",
-      "settings": { "foreground": "#FFD57A" }
+      "settings": { "foreground": "#649AFF" }
     },
     {
       "name": "Tag Definition Punctuation",
       "scope": "punctuation.definition.tag",
-      "settings": { "foreground": "#636BE0B3", "fontStyle": "bold" }
+      "settings": { "foreground": "#9A98FFB3", "fontStyle": "bold" }
     },
     {
       "name": "Template Expression/Quasi Element Punctuation",
       "scope": ["punctuation.definition.template-expression", "punctuation.quasi.element"],
-      "settings": { "foreground": "#636BE0" }
+      "settings": { "foreground": "#9A98FF" }
     },
     {
       "name": "Embedded Section Punctuation",
       "scope": "punctuation.section.embedded",
-      "settings": { "foreground": "#636BE0" }
+      "settings": { "foreground": "#9A98FF" }
     },
     {
       "name": "List Definition Punctuation",
@@ -422,7 +421,7 @@
     {
       "name": "Heading Markup & Section Name Entity",
       "scope": ["markup.heading", "entity.name.section"],
-      "settings": { "foreground": "#636BE0" }
+      "settings": { "foreground": "#9A98FF" }
     },
     {
       "name": "Quote Markup",
@@ -432,7 +431,7 @@
     {
       "name": "Bold Markup",
       "scope": "markup.bold",
-      "settings": { "foreground": "#636BE0", "fontStyle": "bold" }
+      "settings": { "foreground": "#9A98FF", "fontStyle": "bold" }
     },
     {
       "name": "Italic Markup",
